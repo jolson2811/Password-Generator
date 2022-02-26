@@ -9,6 +9,7 @@ function generatePassword() {
   // Fifth Prompt - Include Special Characters
   // Create random password based on criteria
   // Return created password
+  
 }
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
